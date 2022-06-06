@@ -23,6 +23,7 @@ app.component('home-album-image', {
             </svg>
 
             <div class="card-body">
+                <h4>{{title}}</h4>
                 <p class="card-text">{{description}}</p>
                 <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
