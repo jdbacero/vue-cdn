@@ -3,8 +3,8 @@
 A simple Vue app showcasing some basic Vue with just the CDN.
 
 In here I...
-* Used props
-* Used emit
+* Used props so the components can receive data
+* Used emit so parent components can listen
 * Used data from main app instantiation and displayed in main page
 * Divided the app in to different components
 
